@@ -4,10 +4,15 @@
 This project collects, cleans, and analyzes recent football match data using the [Football-Data.org API](https://www.football-data.org/). It covers top European leagues like the Premier League, La Liga, Bundesliga, and Serie A.
 
 Folder Structure
+
 ├── data/ # Contains raw and cleaned CSV files
+
 ├── scripts/ # Code to fetch and clean data from the API
+
 ├── eda/ # Exploratory Data Analysis notebook
+
 └── README.md # Project overview
+
 
 ##  What This Project Does
 
@@ -27,10 +32,8 @@ Folder Structure
 -  Explained approach in a short demo video
 -  Organized code and files into required folders
 
+
  📽️ Demo Video
 
 [🔗 Link to video demo](https://your-video-link.com)
 
----
-
-> Made for internship assignment at Spectrum, July 2025
