@@ -32,8 +32,6 @@ Folder Structure
 -  Explained approach in a short demo video
 -  Organized code and files into required folders
 
+## Demo Video
 
- 📽️ Demo Video
-
-[🔗 Link to video demo](https://your-video-link.com)
-
+[ Click here to watch the video demo](https://drive.google.com/file/d/1-eT4W8lFCgpr6STZ948JVK8UJQ09KNhb/view?usp=sharing)
